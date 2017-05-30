@@ -2,7 +2,7 @@
 include './presentationlayer/ust.php';
 include './presentationlayer/menu.php';
 
-require_once("/logiclayer/UserManager.php");
+require_once(realpath(".")."/logiclayer/UserManager.php");
 
 $userList = UserManager::getUserList();
 

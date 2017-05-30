@@ -8,7 +8,17 @@ include './presentationlayer/menu.php';
     <div class="container-fluid">
         <div class="row">
             <div class="col-lg-12">
-                <h1>Main page</h1>
+  
+                
+                
+                
+                
+ <img src="image/images.png" width="700" height="700"  class="img-responsive" alt="Cinque Terre">
+                
+                
+                
+                
+                
             </div>
 
         </div>

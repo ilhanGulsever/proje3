@@ -2,7 +2,7 @@
 include './presentationlayer/ust.php';
 include './presentationlayer/menu.php';
 
-require_once("/logiclayer/CategoryManager.php");
+require_once(realpath(".")."/logiclayer/CategoryManager.php");
 
 $categoriList = CategoryManager::getAllCategory();
 
